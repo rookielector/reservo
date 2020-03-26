@@ -1,0 +1,22 @@
+payable contract StructureReservo =
+
+    record payment = {
+        payment_id          :   int,
+        contract_instance   :   address, 
+        wallet_provider     :   address, 
+        wallet_client       :   address, 
+        amount              :   int, 
+        date_payment        :   string }
+
+    record reservation = {
+        reservation_id      :   int, 
+        service_id          :   int, 
+        service_cod         :   string, 
+        service_name        :   string, 
+        amount              :   int, 
+        date_reservation    :   string, 
+        beneficiary_id      :   int, 
+        beneficiary_name    :   string, 
+        provider_id         :   int, 
+        provider_name       :   string, 
+        contract_instance   :   address }
