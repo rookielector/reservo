@@ -16,3 +16,9 @@ https://github.com/rookielector/reservo/blob/master/contract-structure-reservo.a
 
 Estructura de base de datos relacional:
 https://github.com/rookielector/reservo/blob/master/verloaqu_reservo.sql
+
+Mapa de ruta
+https://github.com/rookielector/reservo/blob/master/road-map-reservo.pdf
+
+Plan de actividades - Diagrama Gantt
+https://github.com/rookielector/reservo/blob/master/Reservo-plan-actividades-gantt.pdf
